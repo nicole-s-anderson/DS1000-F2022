@@ -1,0 +1,756 @@
+---
+title: "What is data science?"
+subtitle: "Know it when you see it"
+author: "Prof. Bisbee"
+institute: "Vanderbilt University"
+date: "Lecture Date: 2022/08/24\n Slides Updated: `r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    chakra: libs/remark-latest.min.js
+    lib_dir: libs
+    css:
+      - default
+      - css/lexis.css
+      - css/lexis-fonts.css
+    #seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      #ratio: "16:9"
+
+---
+
+# Agenda
+
+1. Meet the instructor
+
+--
+
+  - Prof. Bisbee: _james.h.bisbee@vanderbilt.edu_
+  
+--
+
+2. Course Motivation
+
+--
+
+  - What is data science (DS) & why should we care?
+
+--
+
+3. Course Objectives
+
+--
+
+  - **Content:** Critical thinking, analysis, presentation
+
+--
+
+  - **Skills:** Computing and analysis in R
+  
+--
+
+4. Course Expectations & Syllabus review
+
+---
+
+# Meet the instructor
+
+--
+
+- PhD from NYU Politics in 2019
+
+--
+
+- Postdocs at Princeton Niehaus & NYU CSMaP
+
+--
+
+- Published some things
+
+--
+
+  - Methods-ey: external validity [1](https://www.journals.uchicago.edu/doi/full/10.1086/691280?af=R), [2](https://www.cambridge.org/core/journals/american-political-science-review/article/testing-social-science-network-theories-with-online-network-data-an-evaluation-of-external-validity/4BF517F10F38DFB574FED4A3D805B613); measurement [3](https://www.cambridge.org/core/journals/american-political-science-review/article/barp-improving-mister-p-using-bayesian-additive-regression-trees/630866EB47F9366EDB3C22CFD951BB6F), [4](https://www.cambridge.org/core/journals/political-analysis/article/geographic-boundaries-and-local-economic-conditions-matter-for-views-of-the-economy/32C8C058B8E16CAD48374F95B2B1B3EF)
+
+--
+
+  - Substantive: economics & populism [1](https://www.tandfonline.com/doi/full/10.1080/13501763.2019.1678662); Covid-19 & U.S. politics [2](https://www.journals.uchicago.edu/doi/10.1086/716969),  [3](https://www.cambridge.org/core/journals/american-political-science-review/article/flight-to-safety-covidinduced-changes-in-the-intensity-of-status-quo-preference-and-voting-behavior/AE84D93BAF8B27284DD8F6A75DE5D18A); IPE [4](https://doi.org/10.1017/S0020818319000109); academic naval-gazing [5](https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/polisci-twitter-a-descriptive-analysis-of-how-political-scientists-use-twitter-in-2019/C8A193C3E939C1ABCD4600DFE8AEF79A?utm_source=hootsuite&utm_medium=twitter&utm_campaign=PPS_Dec20)
+  
+--
+
+- Popular press
+
+--
+
+  - Monkey Cage articles [1](https://www.washingtonpost.com/news/monkey-cage/wp/2018/04/04/losing-jobs-to-free-trade-makes-americans-more-protectionist-and-nativist/), [2](https://www.washingtonpost.com/politics/2020/04/02/sanders-was-losing-biden-anyway-he-lost-more-areas-with-coronavirus-cases/?utm_medium=social&utm_source=twitter&utm_campaign=wp_monkeycage)
+  - [Podcast](https://www.niskanencenter.org/did-chinese-trade-competition-increase-nativism-and-elect-trump/) / Radio interviews
+
+---
+
+# Meet the instructor
+
+- Current research
+
+--
+
+  - .red[YouTube] + .blue[polarization]
+
+--
+
+  - .red[Twitter] + .blue[misinformation]
+  
+--
+
+  - .red[Telegram] + .blue[white supremacists]
+  
+--
+
+- Is my current research agenda .red[data] .blue[science]?
+
+---
+
+# What is ".red[data] .blue[science]"?
+
+--
+
+- What is .red[data]?
+
+--
+
+- What is .blue[science]?
+
+---
+
+# What is .red[data]?
+
+--
+
+- "It is a capital mistake to theorize before one has data." Sherlock Holmes
+  
+--
+
+  - Data **informs**
+    
+--
+
+-  "Torture the data, and it will confess to anything." Ronald Coase, Nobel Prize Laureate in Economics 
+
+--
+
+  - Data **lies**
+    
+--
+
+- “Here’s an open secret of the big data world: all data is dirty. All of it.” Meredith Broussard, _Artificial Unintelligence: How Computers Misunderstand the World_
+
+--
+
+  - Data is **invalid**
+
+
+---
+
+# What is .blue[science]?
+
+--
+
+- Simplification, codification, abstraction
+
+--
+
+  - Science identifies patterns in data...
+  
+--
+
+  - ...to make predictions about the future
+  
+--
+  
+- As such, it is inherently:
+
+--
+
+  - Causal
+  
+--
+
+  - Empirical
+  
+--
+
+  - Theoretical
+
+---
+
+# What is data science?
+
+--
+
+- Data: informs / lies / invalid
+
+--
+
+- Science: simplification / codification / abstraction
+
+--
+
+- Data + science = ?
+
+--
+
+background-image: url(https://us.123rf.com/450wm/snak/snak2102/snak210200007/164459427-jolly-roger-white-skull-and-crossbones-on-a-red-sign-warning-of-the-danger-of-landmines.jpg?ver=6)
+background-size: 30%
+background-position: 50% 80%
+
+---
+
+# Why are you here?
+
+--
+
+background-image: url(./figs/DataScienceVCompProgramming.png)
+background-size: contain
+
+--
+
+background-image: url(./figs/fight_ds_econ.PNG)
+background-size: contain
+
+--
+
+background-image: url(./figs/fight_ds_ps.PNG)
+background-size: contain
+
+--
+
+background-image: url(./figs/fight_ds_cs.PNG)
+background-size: contain
+
+--
+
+background-image: url(./figs/fight_ds_stats.PNG)
+background-size: contain
+
+--
+
+background-image: url(./figs/fight_ds_stem.PNG)
+background-size: contain
+
+---
+
+# Is this all just a fad?
+
+--
+
+- No
+
+--
+
+.center[<img src="figs/datagrowth.png" width = "75%">]
+
+
+---
+
+class: center, bottom, inverse
+
+# Data at a scale commensurate to our capacity for wonder
+
+--
+
+background-image: url(./figs/DOMO_2020.jpg)
+background-size: contain
+
+---
+
+# Is this all just a fad?
+
+--
+
+- But there are faddish qualities
+
+--
+
+.center[<img src="figs/hype_cycle.png" width = "75%">]
+
+
+---
+
+
+# Wait so WHAT is data science?
+
+--
+
+- A series of examples
+
+--
+
+- Data science is for **everybody**
+
+
+---
+
+# Historians: Identify Shakespear
+
+--
+
+.leftcol[
+
+- Use .red[original texts] written by Shakespeare and Marlowe (among others)
+
+- Apply .blue[natural language processing (NLP)] to characterize styles of writing
+
+- Demonstrate that Shakespeare was at least heavily influenced by collaborators
+
+]
+
+
+.rightcol[
+<img src="figs/shakespeare_marlowe.png" width="100%">
+]
+
+
+---
+
+# Biologists: Identify Cancer
+
+--
+
+.leftcol[
+
+- Use .red[x-rays] of patients
+
+- Apply .blue[image analysis] to identify cancerous areas
+
+- Reproduce expert analysis, facilitating early detection
+
+]
+
+
+.rightcol[
+<img src="figs/cancer_ML.PNG" width="100%">
+]
+
+
+---
+
+# Astronomers: Detect Dark Matter
+
+--
+
+.leftcol[
+
+- Use .red[satellite photos] of deep space
+
+- Apply .blue[machine learning] to detect gravitational lensing
+
+- Streamline analysis
+
+]
+
+
+.rightcol[
+<img src="figs/gravitational_lensing.jpg" width="100%">
+]
+
+---
+
+# Economists: Predict stock prices
+
+--
+
+.leftcol[
+
+- Use .red[time series data] of stock prices
+
+- Apply .blue[Long Short Term Memory Networks (LSTM)] to predict future prices
+
+- Make KEE$SH!!
+
+]
+
+
+.rightcol[
+<img src="figs/ScaryParallel.png" width="100%">
+]
+
+---
+
+# Social Scientists: Measure Poverty
+
+--
+
+.leftcol[
+
+- Use .red[cell phone data]
+
+- Apply .blue[machine learning] to learn relationships between calling and wealth
+
+- Empower aid agencies around the globe
+
+]
+
+
+.rightcol[
+<img src="figs/poverty_ML.jpg" width="100%">
+]
+
+
+
+---
+
+# Musicologists: Describe Music
+
+--
+
+.leftcol[
+
+- Use .red[audio recordings] and ethnographic labels
+
+- Apply .blue[factor analysis] to distill labels to three dimensions
+
+- Bring the world closer together / anger traditional musicologists
+
+]
+
+
+.rightcol[
+<img src="figs/musicology_ML.PNG" width="100%">
+]
+
+---
+
+# Political Scientists: Predict Polls
+
+--
+
+.leftcol[
+
+- Use .red[tweets] written by candidates
+
+- Apply .blue[basic algebra] to predict winner
+
+- Start a blog
+
+]
+
+
+.rightcol[
+<img src="figs/TwitterPredict.png" width="100%">
+]
+
+
+
+---
+
+
+# WHAT IS DATA SCIENCE?!
+
+--
+
+- How is data science different from science that uses data?
+
+--
+
+- .red[Readymade] versus .blue[custommade]
+
+
+---
+
+# Poverty Measure Example
+
+<img src="figs/download.png" width="100%">
+
+---
+
+# Analysis
+
+<img src="figs/blumenstock_predicting_2015_schematic_1.png" width="85%">
+
+---
+
+# Analysis
+
+<img src="figs/blumenstock_predicting_2015_schematic_2.png" width="85%">
+
+---
+
+# Analysis
+
+<img src="figs/blumenstock_predicting_2015_schematic_3.png" width="85%">
+
+---
+
+# Analysis
+
+<img src="figs/blumenstock_predicting_2015_schematic_4.png" width="85%">
+
+---
+
+# Analysis
+
+<img src="figs/blumenstock_predicting_2015_schematic_5.png" width="85%">
+
+---
+
+# Analysis
+
+<img src="figs/blumenstock_predicting_2015_schematic_6.png" width="85%">
+
+---
+
+# Results
+
+<img src="figs/blumenstock_predicting_2015_fig3a.png" width="100%">
+
+
+---
+
+# Results
+
+<img src="figs/blumenstock_predicting_2015_fig3ab.png" width="100%">
+
+---
+
+# Results
+
+--
+
+- 10 times faster
+
+--
+
+- 50 times cheaper
+
+---
+
+# DS Vs. Science with Data
+
+--
+
+.leftcol[
+Readymade
+<img src="figs/bisbee_nails.jpg" width="100%">
+]
+
+.rightcol[
+Custommade
+<img src="figs/michelangelo.jpg" width="100%">
+]
+
+---
+
+# DS Vs. Science with Data
+
+
+<img src="figs/blumenstock_predicting_2015_schematic_6.png" width="85%">
+
+---
+
+# Course Objectives
+
+--
+
+> - **Content**: Critical thinking, analysis, presentation
+
+--
+
+>     - How to think about data
+  
+--
+
+>         - Data --> theory; Theory --> data
+  
+--
+
+>     - How to use data
+  
+--
+
+>         - Structured vs. unstructured
+    
+--
+
+>     - How to analyze data
+  
+--
+
+>         - The basics (but the basics are EVERYTHING)
+
+---
+
+# Course Objectives
+
+--
+
+- **Skills**: Computing and analysis in `R`
+
+--
+
+  - Introduction: no prior experience necessary
+  
+--
+
+  - Opening tabular data
+  
+--
+
+  - Plotting with base `R` and `ggplot`
+  
+--
+
+  - Writing functions
+  
+---
+
+# Course Objectives
+  
+--
+
+- **Perspective**: How to read empirical research
+
+--
+
+.leftcol[
+<img src="figs/HowTheEconomyIsDoingNYT.png" width="100%">
+]
+
+--
+
+.rightcol[
+<img src="figs/Trump2020ElectionMath.png" width="100%">
+]
+
+---
+
+# What does "introduction" mean?
+
+--
+
+- This is not a "foundations" course
+
+--
+
+- Will give you experience running code (copy, paste, & **tweak**)
+
+--
+
+- Will not go through every function in detail
+
+--
+
+- Will not go through the math behind analysis choices
+
+--
+
+- Focus on intuition and motivation
+
+---
+
+# A preview of the substantive stuff
+
+--
+
+- Predict U.S. elections using survey data (`linear regression`)
+
+--
+
+- Understand why some movies make more money (`linear regression`)
+
+--
+
+- Predict college admissions and enrollment (`linear regression`)
+
+--
+
+- Identify "clusters" of voters (`unsupervised learning`)
+
+--
+
+- Analyze Twitter data (`sentiment analysis`)
+
+--
+
+- Predict who wrote contested documents (`natural language processing`)
+
+---
+
+# How to succeed
+
+> - Before class
+
+--
+
+>   - Download lecture notes & data
+>   - Try to `knit` the code
+>   - Review lecture notes
+
+--
+
+> - During class
+>   - Be a prediction algorithm! (i.e., try to predict what code will do)
+>   - Ask questions...if you have a question, everyone does (5 hours at home vs 5 minutes in class)
+
+--
+
+> - After class
+>   - Tweak code
+>   - Be patient with yourself
+
+---
+
+# The Internet Over Time
+
+--
+
+- Web 1.0 (1990-2000)
+
+--
+
+  - Static websites
+  - Read-only interaction
+  - Company-oriented
+  - Owning content
+
+--
+
+- Web 2.0 (2000-2010)
+
+--
+
+  - Interactive websites
+  - User-generated content
+  - Individual-oriented
+  - Sharing content
+  
+--
+
+- Web 3.0 (2010-today)
+
+---
+
+# Parting Question & HW
+
+- Is the internet better today than in 2009? Worse?
+
+--
+
+  - Why?
+  
+--
+
+  - Email paragraph response to your TA
+  
+--
+
+> - `Abbot-Dihenia:` Mubarak Ganiyu (mubarak.a.ganiyu@vanderbilt.edu)
+> - `Dixon-Kalb:` Sriram Kannan (sriram.kannan@vanderbilt.edu)
+> - `Karakkattu-Michael:` Enya Tan (enya.tan@vanderbilt.edu)
+> - `Michaels-Shan:` Amongh Vig (amogh.vig@vanderbilt.edu)
+> - `Shelton-Zhang:` Quishi Yan (qiushi.yan@vanderbilt.edu)
+  
+--
+
+  - "Better" & "Worse" suggest ethics / morals / normative thinking
+    - Never **EVER** *EVER* lose this lens
+
