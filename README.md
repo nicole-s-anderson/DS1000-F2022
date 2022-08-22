@@ -142,7 +142,7 @@ This course is modeled on the course of the same name, taught by Professors Josh
 
 ### Lecture Notes, Data and Code for Each Topic 
 Each lecture's materials will be released according to the following schedule:
-* Lecture Slides (PDF): published the evening of the date of the class
+* Lecture Slides (PDF/html): published the evening of the date of the class. PDFs can be downloaded. html slides can be viewed online.
 * Problem Sets (.Rmd): published the morning of the lecture in which they are assigned
 * rMarkDown Notes (.Rmd): available from the evening of the preceding class (NB: not all lectures have .Rmd notes.)
 
@@ -152,20 +152,20 @@ Each lecture's materials will be released according to the following schedule:
 
 ### 1\. The Wonderful World of Data Science 
 
-Lecture Content (2022/08/24):  [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/laptop/Lectures/Topic1_IntroMotivation/Topic1_Motivation_slides.pdf)
+Lecture Content (2022/08/24):  [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/laptop/Lectures/Topic1_IntroMotivation/Topic1_Motivation_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic1_IntroMotivation/Topic1_Motivation_slides.html)
 
 
 ### 2\. Thinking like a scientist & Data Ethics
 
-Lecture Content Part 1 (2022/08/29): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic2_ScienceEthics/Topic2_Science_slides.pdf)
+Lecture Content Part 1 (2022/08/29): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic2_ScienceEthics/Topic2_Science_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic2_ScienceEthics/Topic2_Science_slides.html)
 
-Lecture Content Part 2 (2022/08/31): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic2_ScienceEthics/Topic2_Ethics_slides.pdf)
+Lecture Content Part 2 (2022/08/31): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic2_ScienceEthics/Topic2_Ethics_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic2_ScienceEthics/Topic2_Ethics_slides.html)
 
 ### 3\. Hello, World!
 
-Lecture Content Part 1 (2022/09/05): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic3_HelloWorld/code/Topic3_HelloWorld_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic3_HelloWorld/code/Topic3_HelloWorld_part1_slides.pdf)
+Lecture Content Part 1 (2022/09/05): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic3_HelloWorld/code/Topic3_HelloWorld_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic3_HelloWorld/code/Topic3_HelloWorld_part1_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic3_HelloWorld/code/Topic3_HelloWorld_part1_slides.html)
 
-Lecture Content Part 2 (2022/09/07): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic3_HelloWorld/code/Topic3_HelloWorld_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic3_HelloWorld/code/Topic3_HelloWorld_part2_slides.pdf)
+Lecture Content Part 2 (2022/09/07): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic3_HelloWorld/code/Topic3_HelloWorld_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic3_HelloWorld/code/Topic3_HelloWorld_part2_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic3_HelloWorld/code/Topic3_HelloWorld_part2_slides.html)
 
 Dataset: [College Debt Data](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic3_HelloWorld/data/sc_debt.Rds)
 
@@ -173,9 +173,9 @@ Dataset: [College Debt Data](https://github.com/jbisbee1/DS1000-F2022/blob/main/
 
 ### 4\.  Data Wrangling
 
-Lecture Content Part 1 (2022/09/12): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic4_DataWrangling/code/Topic4_DataWrangling_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic4_DataWrangling/code/Topic4_DataWrangling_part1_slides.pdf)
+Lecture Content Part 1 (2022/09/12): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic4_DataWrangling/code/Topic4_DataWrangling_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic4_DataWrangling/code/Topic4_DataWrangling_part1_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic4_DataWrangling/code/Topic4_DataWrangling_part1_slides.html)
 
-Lecture Content Part 2 (2022/09/14): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic4_DataWrangling/code/Topic4_DataWrangling_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic4_DataWrangling/code/Topic4_DataWrangling_part2_slides.pdf)
+Lecture Content Part 2 (2022/09/14): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic4_DataWrangling/code/Topic4_DataWrangling_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic4_DataWrangling/code/Topic4_DataWrangling_part2_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic4_DataWrangling/code/Topic4_DataWrangling_part2_slides.html)
 
 Dataset: [MI2020_ExitPoll.Rds](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic4_DataWrangling/data/MI2020_ExitPoll.rds)
 
@@ -193,11 +193,11 @@ Dataset: [MI2020_ExitPoll_small.rds](https://github.com/jbisbee1/DS1000-F2022/bl
 
 ### 5\. Univariate Data Analysis
 
-Lecture Content Part 1 (2022/09/19):  [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic5_UnivariateDescription/code/Topic5_UnivariateDescription_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic5_UnivariateDescription/code/Topic5_UnivariateDescription_part1_slides.pdf) 
+Lecture Content Part 1 (2022/09/19):  [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic5_UnivariateDescription/code/Topic5_UnivariateDescription_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic5_UnivariateDescription/code/Topic5_UnivariateDescription_part1_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic5_UnivariateDescription/code/Topic5_UnivariateDescription_part1_slides.html)
 
 Dataset: [nba_players.Rds](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic5_UnivariateDescription/data/nba_players_2018.Rds)
 
-Lecture Content Part 2 (2022/09/21): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic5_UnivariateDescription/code/Topic5_UnivariateDescription_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic5_UnivariateDescription/code/Topic5_UnivariateDescription_part2_slides.pdf)
+Lecture Content Part 2 (2022/09/21): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic5_UnivariateDescription/code/Topic5_UnivariateDescription_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic5_UnivariateDescription/code/Topic5_UnivariateDescription_part2_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic5_UnivariateDescription/code/Topic5_UnivariateDescription_part2_slides.html)
 
 Dataset: [game_summary.Rds](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic5_UnivariateDescription/data/game_summary.Rds) 
 
@@ -205,9 +205,9 @@ Dataset: [game_summary.Rds](https://github.com/jbisbee1/DS1000-F2022/blob/main/L
 
 ### 6\. Univariate Data Visualization
 
-Lecture Content Part 1 (2022/09/26): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic6_UnivariateVisualization/code/Topic6_UnivariateVisualization_part1_slides.pdf) 
+Lecture Content Part 1 (2022/09/26): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic6_UnivariateVisualization/code/Topic6_UnivariateVisualization_part1_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic6_UnivariateVisualization/code/Topic6_UnivariateVisualization_part1_slides.html)
 
-Lecture Content Part 2 (2022/09/28): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic6_UnivariateVisualization/code/Topic6_UnivariateVisualization_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic6_UnivariateVisualization/code/Topic6_UnivariateVisualization_part2_slides.pdf)
+Lecture Content Part 2 (2022/09/28): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic6_UnivariateVisualization/code/Topic6_UnivariateVisualization_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic6_UnivariateVisualization/code/Topic6_UnivariateVisualization_part2_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic6_UnivariateVisualization/code/Topic6_UnivariateVisualization_part2_slides.html)
 
 Dataset: [Pres2020_PV.Rdata](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic6_UnivariateVisualization/data/Pres2020_PV.Rds) 
 
@@ -217,13 +217,13 @@ If interested: [Challenger: The Final Flight](https://www.netflix.com/title/8101
 
 ### 7\. Conditional Relationships \& Visualization
 
-Lecture Content Part 1 (2022/10/03): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic7_ConditionalVariation/code/Topic7_ConditionalVariation_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic7_ConditionalVariation/code/Topic7_ConditionalVariation_part1_slides.pdf)
+Lecture Content Part 1 (2022/10/03): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic7_ConditionalVariation/code/Topic7_ConditionalVariation_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic7_ConditionalVariation/code/Topic7_ConditionalVariation_part1_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic7_ConditionalVariation/code/Topic7_ConditionalVariation_part1_slides.html)
 
 Dataset: [MI2020_ExitPoll_small.rds](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic4_DataWrangling/data/MI2020_ExitPoll_small.rds)
 
 Dataset: [Pres2020_PV.Rdata](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic6_UnivariateVisualization/data/Pres2020_PV.Rds) 
 
-Lecture Content Part 2 (2022/10/05): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic7_ConditionalVariation/code/Topic7_ConditionalVariation_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic7_ConditionalVariation/code/Topic7_ConditionalVariation_part2_slides.pdf)
+Lecture Content Part 2 (2022/10/05): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic7_ConditionalVariation/code/Topic7_ConditionalVariation_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic7_ConditionalVariation/code/Topic7_ConditionalVariation_part2_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic7_ConditionalVariation/code/Topic7_ConditionalVariation_part2_slides.html)
 
 Dataset: [Pres2020_StatePolls.Rds](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic7_ConditionalVariation/data/Pres2020_StatePolls.Rds) 
 
@@ -240,15 +240,15 @@ Midterm Review (2022/10/10)
 
 ### 8\. Regression
 
-Lecture Notes Part 1 (2022/10/17): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_part1_slides.pdf)
+Lecture Notes Part 1 (2022/10/17): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_part1_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic8_Regression/code/Topic8_Regression_part1_slides.html)
 
-Lecture Notes Part 2 (2022/10/19): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_part2_slides.pdf)
+Lecture Notes Part 2 (2022/10/19): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_part2_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic8_Regression/code/Topic8_Regression_part2_slides.html)
 
 **Problem Set 6 (due 2022/10/23): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_PS6.Rmd)**
 
-Lecture Notes Part 3 (2022/10/24): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_part2_slides.pdf)
+Lecture Notes Part 3 (2022/10/24): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_part3.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_part3_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic8_Regression/code/Topic8_Regression_part3_slides.html)
 
-Lecture Notes Part 4 (2022/10/26): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_part3.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_part3_slides.pdf)
+Lecture Notes Part 4 (2022/10/26): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_part4.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_part4_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic8_Regression/code/Topic8_Regression_part4_slides.html)
 
 **Problem Set 7 (due 2022/10/30): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic8_Regression/code/Topic8_Regression_PS7.Rmd)**
 
@@ -263,23 +263,23 @@ Movie Data: [mv.Rds](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures
 
 ### 9\.  Clustering, Text, Twitter, and Sentiment...
 
-Lecture Notes Part 1 (2022/10/31): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_part1_slides.pdf)
+Lecture Notes Part 1 (2022/10/31): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_part1_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic9_Clustering/code/Topic9_Clustering_part1_slides.html)
 
 Florida County Data - for part 1: [FloridaCountyData.Rds](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/data/FloridaCountyData.Rds)
 
 US County Vote Data - for part 1: [CountyVote2004_2020.Rds](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/data/CountyVote2004_2020.Rds)
 
-Lecture Notes Part 2 (2022/11/02): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_part2_slides.pdf)
+Lecture Notes Part 2 (2022/11/02): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_part2_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic9_Clustering/code/Topic9_Clustering_part2_slides.html)
 
 Federalist Papers Data - for part 2: [FederalistPaperCorpusTidy.Rds](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/data/FederalistPaperCorpusTidy.Rds)
 
 **Problem Set 8 (due 2022/11/06): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_PS8.Rmd)**
 
-Lecture Notes Part 3 (2022/11/07): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_part3.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_part3_slides.pdf)
+Lecture Notes Part 3 (2022/11/07): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_part3.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_part3_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic9_Clustering/code/Topic9_Clustering_part3_slides.html)
 
 Federalist Papers Data - for part 3: [FederalistPaperDocumentTermMatrix.Rds](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/data/FederalistPaperDocumentTermMatrix.Rds)
 
-Lecture Notes Part 4 (2022/11/09):  [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_part4.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_part4_slides.pdf)
+Lecture Notes Part 4 (2022/11/09):  [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_part4.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/code/Topic9_Clustering_part4_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic9_Clustering/code/Topic9_Clustering_part4_slides.html)
 
 Tweet-Level Data on Trump Tweets - for part 4: [Trumptweets.Rds](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic9_Clustering/data/Trumptweets.Rds)
 
@@ -290,15 +290,15 @@ Word-Level Data on Trump Tweets - for part 4: [Trump_tweet_words.Rds](https://gi
 
 ### 10\. Classification: Or, Become an Admissions Dean for Fun and Profit!
 
-Lecture Notes Part 1 (2022/11/14): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_part1_slides.pdf)
+Lecture Notes Part 1 (2022/11/14): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_part1_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic10_Classification/code/Topic10_Classification_part1_slides.html)
 
-Lecture Notes Part 2 (2022/11/16): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_part2_slides.pdf)
+Lecture Notes Part 2 (2022/11/16): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_part2.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_part2_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic10_Classification/code/Topic10_Classification_part2_slides.html)
 
 **Problem Set 10 (due 2022/11/27): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_PS10.Rmd)**
 
-Lecture Notes Part 3 (2022/11/28): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_part3.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_part3_slides.pdf)
+Lecture Notes Part 3 (2022/11/28): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_part3.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_part3_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic10_Classification/code/Topic10_Classification_part3_slides.html)
 
-Lecture Notes Part 4 (2022/11/30): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_part4.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_part4_slides.pdf)
+Lecture Notes Part 4 (2022/11/30): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_part4.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/code/Topic10_Classification_part4_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic10_Classification/code/Topic10_Classification_part4_slides.html)
 
 [admit_data.rds](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic10_Classification/data/admit_data.rds)
 
@@ -307,7 +307,7 @@ Lecture Notes Part 4 (2022/11/30): [.Rmd](https://github.com/jbisbee1/DS1000-F20
 
 ### 11\. Further Fun with R
 
-Lecture Notes (2022/12/05): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic11_funR/code/Topic11_funR_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic11_funR/code/Topic11_funR_part1_slides.pdf)
+Lecture Notes (2022/12/05): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic11_funR/code/Topic11_funR_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic11_funR/code/Topic11_funR_part1_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic11_funR/code/Topic11_funR_part1_slides.html)
 
 Dataset: [PresStatePolls04to20.Rds](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic11_funR/data/PresStatePolls04to20.Rds) 
 
