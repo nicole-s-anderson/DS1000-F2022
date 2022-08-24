@@ -122,9 +122,9 @@ The observance of religious holidays (activities observed by a religious group o
 ## Office Hours
 * Prof. Bisbee: M & W 11AM to 12PM; The Commons Room 533
 * TA Ganyiu: T & TH 2PM to 3PM; [Zoom link](https://vanderbilt.zoom.us/j/99730695013)
-* TA Kannan: TBD
+* TA Kannan: M & T 4PM to 5PM; [Zoom link](https://vanderbilt.zoom.us/j/94821228242)
 * TA Tan: TH 4PM to 6PM; [Zoom link](https://vanderbilt.zoom.us/j/96536751582)
-* TA Vig: F 2PM to 4PM; [Zoom link]()
+* TA Vig: F 2PM to 4PM; [Zoom link](https://vanderbilt.zoom.us/j/91690960806?pwd=bllNdHZOVjFkK2RuSUI0aXlSMmxBUT09)
 * TA Yan: W 4PM to 6PM; [Zoom link](https://us05web.zoom.us/j/5792035744?pwd=elVySzlnWmczdVlzS1AxS3NQb0V2UT09)
 
 
