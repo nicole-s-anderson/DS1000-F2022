@@ -752,7 +752,7 @@ Custommade
 > - `Aaliyah-Caroline:` [Mubarak Ganiyu](mailto:mubarak.a.ganiyu@vanderbilt.edu)
 > - `Catherine-Jansen:` [Sriram Kannan](mailto:sriram.kannan@vanderbilt.edu)
 > - `Jayna-Lucas:` [Enya Tan](mailto:enya.tan@vanderbilt.edu)
-> - `Luke-Ryan D. Lee:` [Amongh Vig](mailto:amogh.vig@vanderbilt.edu)
+> - `Luke-Ryan D. Lee:` [Amogh Vig](mailto:amogh.vig@vanderbilt.edu)
 > - `Ryan M. Schaufele-Zongwei:` [Quishi Yan](mailto:qiushi.yan@vanderbilt.edu)
   
 --
