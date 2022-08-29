@@ -157,7 +157,7 @@ Lecture Content (2022/08/24):  [PDF](https://github.com/jbisbee1/DS1000-F2022/bl
 
 ### 2\. Thinking like a scientist & Data Ethics
 
-Lecture Content Part 1 (2022/08/29): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic2_ScienceEthics/Topic2_Science_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic2_ScienceEthics/Topic2_Science_slides.html)
+Lecture Content Part 1 (2022/08/29): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/master/Lectures/Topic2_ScienceEthics/Topic2_Science_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic2_ScienceEthics/Topic2_Science_slides.html)
 
 Lecture Content Part 2 (2022/08/31): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic2_ScienceEthics/Topic2_Ethics_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic2_ScienceEthics/Topic2_Ethics_slides.html)
 
