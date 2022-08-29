@@ -121,11 +121,11 @@ The observance of religious holidays (activities observed by a religious group o
 
 ## Office Hours
 * Prof. Bisbee: M & W 11AM to 12PM; The Commons Room 533
-* TA Ganyiu: T & TH 2PM to 3PM; [Zoom link](https://vanderbilt.zoom.us/j/99730695013)
-* TA Kannan: M & T 4PM to 5PM; [Zoom link](https://vanderbilt.zoom.us/j/94821228242)
-* TA Tan: TH 4PM to 6PM; [Zoom link](https://vanderbilt.zoom.us/j/96536751582)
-* TA Vig: F 2PM to 4PM; [Zoom link](https://vanderbilt.zoom.us/j/91690960806?pwd=bllNdHZOVjFkK2RuSUI0aXlSMmxBUT09)
-* TA Yan: W 4PM to 6PM; [Zoom link](https://us05web.zoom.us/j/5792035744?pwd=elVySzlnWmczdVlzS1AxS3NQb0V2UT09)
+* TA Ganyiu: T & TH 2PM to 3PM, Sun TBD, F 9AM to 11AM (HW review only); Zoom link available on [Campuswire](https://campuswire.com/p/G175ABCF3)
+* TA Kannan: M & T 4PM to 5PM; Zoom link available on [Campuswire](https://campuswire.com/p/G175ABCF3)
+* TA Tan: TH 4PM to 6PM; Zoom link available on [Campuswire](https://campuswire.com/p/G175ABCF3)
+* TA Vig: F 2PM to 4PM; Zoom link available on [Campuswire](https://campuswire.com/p/G175ABCF3)
+* TA Yan: W 4PM to 6PM; Zoom link available on [Campuswire](https://campuswire.com/p/G175ABCF3)
 
 
 ## Acknowledgements
@@ -152,12 +152,12 @@ Each lecture's materials will be released according to the following schedule:
 
 ### 1\. The Wonderful World of Data Science 
 
-Lecture Content (2022/08/24):  [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/laptop/Lectures/Topic1_IntroMotivation/Topic1_Motivation_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic1_IntroMotivation/Topic1_Motivation_slides.html)
+Lecture Content (2022/08/24):  [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/laptop/Lectures/Topic1_IntroMotivation/Topic1_Motivation_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic1_IntroMotivation/Topic1_Motivation_slides.html) [recording](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic1_IntroMotivation/Topic1_Recording.mp4)
 
 
 ### 2\. Thinking like a scientist & Data Ethics
 
-Lecture Content Part 1 (2022/08/29): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/master/Lectures/Topic2_ScienceEthics/Topic2_Science_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic2_ScienceEthics/Topic2_Science_slides.html)
+Lecture Content Part 1 (2022/08/29): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/master/Lectures/Topic2_ScienceEthics/Topic2_Science_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic2_ScienceEthics/Topic2_Science_slides.html) [recording](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic2_ScienceEthics/Topic2_Science_recording.mp4)
 
 Lecture Content Part 2 (2022/08/31): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic2_ScienceEthics/Topic2_Ethics_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic2_ScienceEthics/Topic2_Ethics_slides.html)
 
