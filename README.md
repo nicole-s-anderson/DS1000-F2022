@@ -152,12 +152,12 @@ Each lecture's materials will be released according to the following schedule:
 
 ### 1\. The Wonderful World of Data Science 
 
-Lecture Content (2022/08/24):  [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/laptop/Lectures/Topic1_IntroMotivation/Topic1_Motivation_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic1_IntroMotivation/Topic1_Motivation_slides.html) [recording](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic1_IntroMotivation/Topic1_Recording.m4v)
+Lecture Content (2022/08/24):  [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/laptop/Lectures/Topic1_IntroMotivation/Topic1_Motivation_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic1_IntroMotivation/Topic1_Motivation_slides.html) [recording](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic1_IntroMotivation/Topic1_Recording.mp4)
 
 
 ### 2\. Thinking like a scientist & Data Ethics
 
-Lecture Content Part 1 (2022/08/29): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/master/Lectures/Topic2_ScienceEthics/Topic2_Science_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic2_ScienceEthics/Topic2_Science_slides.html) [recording](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic2_ScienceEthics/Topic2_Science_recording.mp4)
+Lecture Content Part 1 (2022/08/29): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/master/Lectures/Topic2_ScienceEthics/Topic2_Science_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic2_ScienceEthics/Topic2_Science_slides.html) [recording](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic2_ScienceEthics/Topic2_Science_recording.m4v)
 
 Lecture Content Part 2 (2022/08/31): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic2_ScienceEthics/Topic2_Ethics_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic2_ScienceEthics/Topic2_Ethics_slides.html)
 
