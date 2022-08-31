@@ -161,6 +161,8 @@ Lecture Content Part 1 (2022/08/29): [PDF](https://github.com/jbisbee1/DS1000-F2
 
 Lecture Content Part 2 (2022/08/31): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/master/Lectures/Topic2_ScienceEthics/Topic2_Ethics_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic2_ScienceEthics/Topic2_Ethics_slides.html)
 
+**Homework Assignment 0 (Due 2022/09/03): [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/master/Lectures/Topic2_ScienceEthics/Topic2_HW0.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic2_ScienceEthics/Topic2_HW0.html)
+
 ### 3\. Hello, World!
 
 Lecture Content Part 1 (2022/09/05): [.Rmd](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic3_HelloWorld/code/Topic3_HelloWorld_part1.Rmd) [PDF](https://github.com/jbisbee1/DS1000-F2022/blob/main/Lectures/Topic3_HelloWorld/code/Topic3_HelloWorld_part1_slides.pdf) [html](https://jbisbee1.github.io/DS1000-F2022/Lectures/Topic3_HelloWorld/code/Topic3_HelloWorld_part1_slides.html)
